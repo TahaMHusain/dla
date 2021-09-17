@@ -5,12 +5,16 @@
 
 ### Practice & homework
 * __Seminar:__ `./seminar.ipynb` 
+
     Instructions for conda environment setup, overview of pytorch, basics of torchaudio
 * __DSP:__ `./dsp.ipynb` 
+
     Demo of the parameters of an audio signal
 * __FFT decomposition:__ `./fft.ipynb` 
+
     Description of the Fourier Transform
 * __Homework:__ `./homework.ipynb` 
+
     Implement basic signal processing algorithms, and write a basic speech recognizer
 
 ### Additional Materials
